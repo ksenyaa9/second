@@ -33,11 +33,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(345, 212);
+            this.button1.Location = new System.Drawing.Point(524, 142);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(117, 36);
+            this.button1.Size = new System.Drawing.Size(158, 43);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Закрыть";
+            this.button1.Text = "Закрыть.";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -45,8 +45,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.PaleGreen;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.SandyBrown;
+            this.ClientSize = new System.Drawing.Size(1014, 308);
             this.Controls.Add(this.button1);
             this.Name = "Блокнот";
             this.Text = "Блокнот";
